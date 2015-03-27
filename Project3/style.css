@@ -19,7 +19,11 @@ h2
 
 p {text-align: center;}
 
+a:link {
+    color: white;
+}
 h3 {font-size: 12px;
+
 }
 
 ul{color: white;
