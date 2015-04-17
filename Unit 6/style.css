@@ -1,0 +1,81 @@
+@import url(http://fonts.googleapis.com/css?family=Orbitron);
+@import url(http://fonts.googleapis.com/css?family=Cinzel);
+
+
+.logo {
+text-align: left;
+color: black;
+font-weight: bold;
+
+
+}
+
+body {
+	background: #800020;
+	background-size: cover;
+	color:white;
+	font-family: 'Cinzel', serif;
+}
+
+a {
+	color: white;
+	font-size: 20px;
+}
+.column {
+	float: left;
+	width: 450px;
+	height: 500px;
+	padding: 51px;
+	margin: 0;
+}
+
+#web {
+
+	background: url(websocial.jpg);
+	background-size: center;
+	text-align: right;
+
+}
+
+#photo {
+	background: url(cameraphoto.jpg);
+	background-size: center;
+	text-align: center;
+}
+
+#contact {
+	background: url(contact.jpg);
+	background-size: center;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	clear: both;
+}
+
+.column2 {
+	float: left;
+	width: 675px;
+	height: 250px;
+	padding: 77px;
+	margin: 0;
+}
+
+#pic {
+	background: url(pic.jpg);
+	background-size: cover;
+}
+
+#about {
+	background-color: #B87333;
+	color: black;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#aboutme {
+	color: white;
+	font-size: 18px;
+}
+
